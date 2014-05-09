@@ -1,0 +1,2 @@
+wox.plugin.uninstaller
+======================
